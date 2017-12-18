@@ -20,8 +20,8 @@ except:
 
 class LineTransport(TTransportBase):
 
-    UserAgent   = 'Line/7.14.0'
-    AppName     = 'IOSIPAD\t7.14.0\tiPhone OS\t10.12.0'
+    UserAgent   = 'Line/7.4.7 iPad3,6 7.0.2'
+    AppName     = 'IOSIPAD 7.4.7 iPhone OS 7.0.2'
 
     def __init__(self, uri_or_host, port=None, path=None):
         if port is not None:

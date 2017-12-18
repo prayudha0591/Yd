@@ -28,8 +28,8 @@ class url(object):
     LINE_CHAN_QUERY_PATH            = '/CH4'
     LINE_SHOP_QUERY_PATH            = '/SHOP4'
 
-    UserAgent   = 'Line/7.14.0'
-    AppName     = 'IOSIPAD\t7.14.0\tiPhone OS\t10.12.0'
+    UserAgent   = 'Line/7.4.7 iPad3,6 7.0.2'
+    AppName     = 'IOSIPAD 7.4.7 iPhone OS 7.0.2'
     port        = 443
     systemname  = 'VODKA-PC'
     ip          = '127.0.0.1'
